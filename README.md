@@ -1,2 +1,2 @@
 # Indian-Bank
- Basic Banking Syaytem
+ Basic Banking System.
